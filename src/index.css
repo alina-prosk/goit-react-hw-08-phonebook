@@ -5,7 +5,7 @@ body {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
-  background-color: rgb(254, 230, 46);
+  background-color: rgb(229, 235, 246);
   background-image: linear-gradient(to right top, #e6f3f5, #cde8eb, #b5dae1, #9ccad7, #83b8ce, #6ab1c4, #51a0ba, #3988b0, #2079a6, #077c9c);
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -25,6 +25,6 @@ p {
 
 h1,
 h2 {
-  color: #2596be;
+  color: #3377f5;
   margin-bottom: 20px;
 }
