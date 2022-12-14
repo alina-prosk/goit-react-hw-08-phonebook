@@ -5,8 +5,8 @@ body {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
-  background-color: rgb(247, 221, 177);
-  background-image: linear-gradient(to right top, #ebf5e6, #d8ebcd, #c4e1b5, #b1d79c, #9dce83, #89c46a, #76ba51, #62b039, #4fa620, #3b9c07);
+  background-color: rgb(254, 230, 46);
+  background-image: linear-gradient(to right top, #e6f3f5, #cde8eb, #b5dae1, #9ccad7, #83b8ce, #6ab1c4, #51a0ba, #3988b0, #2079a6, #077c9c);
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
